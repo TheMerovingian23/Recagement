@@ -21,6 +21,19 @@ git clone https://github.com/yourusername/recagement.git
 cd recagement
 npm install
 
+Usage
+After installation, you can start using Recagement by running:
+npm start
+
+Further usage instructions, including detailed features and command-line options, will be provided here.
+
+Contributing
+We welcome contributions to Recagement! If you have suggestions or improvements, please fork the repository and create a pull request, or open an issue with the tag "enhancement".
+
+Please ensure to update tests as appropriate.
+
+License
+MIT
 
 Contact Information
 Kofi Tolbert
